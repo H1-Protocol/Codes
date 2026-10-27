@@ -1,0 +1,3 @@
+Font: Tuffy 1.1 by Thatcher Ulrich
+The font is identified as public domain in SFML's examples/asset_licenses.md.
+Source: http://tulrich.com/fonts/

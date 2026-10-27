@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION ${CMAKE_VERSION}) # this file comes with cmake
+
+message(VERBOSE "Executing patch step for freetype")
+
+block(SCOPE_FOR VARIABLES)
+
+execute_process(
+  WORKING_DIRECTORY "C:/Codes/PROJECTS/windowed/build/_deps/freetype-src"
+  COMMAND_ERROR_IS_FATAL LAST
+  COMMAND  [====[C:/Users/zakki/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/cmake.exe]====] [====[-DFREETYPE_DIR=C:/Codes/PROJECTS/windowed/build/_deps/freetype-src]====] [====[-P]====] [====[C:/Codes/PROJECTS/windowed/build/_deps/sfml-src/tools/freetype/PatchFreetype.cmake]====]
+)
+
+endblock()

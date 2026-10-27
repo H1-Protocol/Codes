@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+C:/Codes/PROJECTS/calculator-program/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+C:/Codes/PROJECTS/calculator-program/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule
+C:/Codes/PROJECTS/calculator-program/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule
+C:/Codes/PROJECTS/calculator-program/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule
+C:/Codes/PROJECTS/calculator-program/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule
+C:/Codes/PROJECTS/calculator-program/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule
+C:/Codes/PROJECTS/calculator-program/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule
+C:/Codes/PROJECTS/calculator-program/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule
+C:/Codes/PROJECTS/calculator-program/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule
+C:/Codes/PROJECTS/calculator-program/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule
+C:/Codes/PROJECTS/calculator-program/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule

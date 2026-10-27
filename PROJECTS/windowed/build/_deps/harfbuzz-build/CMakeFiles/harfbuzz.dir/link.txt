@@ -1,0 +1,2 @@
+C:\Users\zakki\AppData\Local\Microsoft\WinGet\Packages\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\mingw64\bin\ar.exe qc ..\sfml-build\lib\libharfbuzz.a CMakeFiles/harfbuzz.dir/src/harfbuzz.cc.obj
+C:\Users\zakki\AppData\Local\Microsoft\WinGet\Packages\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\mingw64\bin\ranlib.exe ..\sfml-build\lib\libharfbuzz.a

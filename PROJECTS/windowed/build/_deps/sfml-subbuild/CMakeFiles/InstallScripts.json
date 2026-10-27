@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Codes/PROJECTS/windowed/build/_deps/sfml-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

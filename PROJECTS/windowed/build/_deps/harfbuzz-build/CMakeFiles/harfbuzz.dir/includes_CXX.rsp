@@ -1,0 +1,1 @@
+-I"C:/Codes/PROJECTS/windowed/build/_deps/harfbuzz-src/src" -I"C:/Codes/PROJECTS/windowed/build/_deps/harfbuzz-build/src" -isystem "C:/Codes/PROJECTS/windowed/build/_deps/freetype-build/include" -isystem "C:/Codes/PROJECTS/windowed/build/_deps/freetype-src/include"

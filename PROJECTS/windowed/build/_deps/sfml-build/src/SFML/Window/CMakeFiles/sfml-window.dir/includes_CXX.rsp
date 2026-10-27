@@ -1,0 +1,1 @@
+-I"C:/Codes/PROJECTS/windowed/build/_deps/sfml-src/include" -I"C:/Codes/PROJECTS/windowed/build/_deps/sfml-src/src" -isystem "C:/Codes/PROJECTS/windowed/build/_deps/sfml-src/extlibs/headers/glad/include" -isystem "C:/Codes/PROJECTS/windowed/build/_deps/sfml-src/extlibs/headers/vulkan"

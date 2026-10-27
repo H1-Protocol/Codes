@@ -1,0 +1,2 @@
+C:\Users\zakki\AppData\Local\Microsoft\WinGet\Packages\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\mingw64\bin\ar.exe qc ..\..\..\lib\libsfml-main.a "CMakeFiles/sfml-main.dir/MainWin32.cpp.obj"
+C:\Users\zakki\AppData\Local\Microsoft\WinGet\Packages\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\mingw64\bin\ranlib.exe ..\..\..\lib\libsfml-main.a
